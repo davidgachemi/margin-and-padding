@@ -1,0 +1,35 @@
+*{
+    background-color: aquamarine;
+    
+}
+/*.card{
+    background-color: rgb(89, 61, 26);
+}*/
+.title, .content, .button-container{
+    background-color: rgb(18, 205, 205);
+    margin-bottom: 8px;
+    margin-top: 0;
+    padding: 5px;
+
+}
+.title{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px;
+}
+.button-container{
+    display: block;
+    text-align: center;
+        
+    
+}
+.content{
+    padding: 16px 8px;
+}
+button{
+    display: block;
+    background-color: whitesmoke;
+    padding: 8px 24px;
+    margin:0 auto;
+    
+}
